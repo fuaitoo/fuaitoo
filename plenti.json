@@ -1,7 +1,4 @@
 {
-  "routes": {
-    "pages": "/:filename"
-  },
   "build": "public",
   "local": {
     "port": 3000
